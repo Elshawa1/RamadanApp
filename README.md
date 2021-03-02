@@ -2,13 +2,13 @@ Download all the files to one folder.
 Follow the deployment guide.pdf.
 
 
-**Feedback**
+# Feedback
 Thoughts? Questions? Ideas? Share them with us on Teams UserVoice!
 
-Please report bugs and other code issues here.
-https://microsoftteams.uservoice.com/forums/555103-public
+Please report bugs and other code issues [here](https://microsoftteams.uservoice.com/forums/555103-public).
 
-**Legal notice**
+
+# Legal notice
 
 This app template is provided under the MIT License terms. In addition to these terms, by using this app template you agree to the following:
 
@@ -24,7 +24,7 @@ If the app template enables access to any Microsoft Internet-based services (e.g
 
 Use of this template does not guarantee acceptance of your app to the Teams app store. To make this app available in the Teams app store, you will have to comply with the submission and validation process, and all associated requirements such as including your own privacy statement and terms of use for your app.
 
-**Contributing**
+# Contributing
 
 This project welcomes contributions and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.microsoft.com.
 
